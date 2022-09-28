@@ -1,5 +1,5 @@
 # Projet-A13-Test
-Dans ce projet je vais ecrire 3 poemes. On va a travailler en equipo
+Dans ce projet, je vais écrire 3 poèmes. travaillons en équipe de 4.
 
 ## Poeme1
 sujet: la vie est belle
@@ -8,6 +8,6 @@ sujet: la vie est belle
 sujet: la vie s'analyse programmeur
 
 ## Poeme3
-sujet: la joie du partage et de la decouverte
+sujet: le plaisir de partager et de découvrir
 
 <img scr="image.gpg" alt="description"> 
